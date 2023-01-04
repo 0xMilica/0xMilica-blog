@@ -1,7 +1,7 @@
 {
-  "name": "zxmilica-blog",
+  "name": "0xMilica-blog",
   "private": true,
-  "description": "My personal Web3 blog",
+  "description": "Web3 from Developer Relations Engineer point of view",
   "version": "1.0.0",
   "author": "0xMilica",
   "dependencies": {
@@ -40,7 +40,7 @@
   "devDependencies": {
     "prettier": "2.7.1"
   },
-  "homepage": "https://github.com/MilicaVulic/zxm-blog.git",
+  "homepage": "https://github.com/MilicaVulic/0xMilica-blog.git",
   "keywords": [
     "gatsby",
     "netlify cms"
@@ -48,7 +48,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MilicaVulic/zxm-blog.git"
+    "url": "git+https://github.com/MilicaVulic/0xMilica-blog.git"
   },
   "scripts": {
     "build": "gatsby build",

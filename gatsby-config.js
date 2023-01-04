@@ -6,8 +6,8 @@ module.exports = {
       summary: `Developer Relations Engineer, Social butterfly 🦋`,
     },
     openGraphImage: `open-graph-image.jpeg`,
-    description: `My personal Web3 blog`,
-    siteUrl: `https://zxm.netlify.app`,
+    description: `Web3 from Developer Relations Engineer point of view`,
+    siteUrl: `https://0xMilica.netlify.app`,
     social: {
       twitter: `lady_web3`,
     },
