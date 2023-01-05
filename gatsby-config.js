@@ -23,11 +23,7 @@ module.exports = {
       {
         name: "twitter",
         url: "https://twitter.com/lady_web3",
-      },
-      {
-        name: "instagram",
-        url: "https://www.instagram.com/ladyweb3/",
-      },
+      }
     ],
   },
   plugins: [
