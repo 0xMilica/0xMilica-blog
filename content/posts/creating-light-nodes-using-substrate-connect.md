@@ -11,12 +11,15 @@ description: How decentralised are blockchain nodes right now in web3, and how
   is Parity tackling this issue
 ---
 ![Stefan Sopic presenting substrate_connect](/media/1671302502487.jpeg "Stefan Sopic presenting substrate_connect")
+_Stefan Sopic presenting substrate_connect_
 
 I had the pleasure of joining the discussion about light nodes integrated into wallets hosted by [Stefan Sopic](https://twitter.com/sopke86) from [Parity Technologies](https://twitter.com/paritytech).
 
 Many web3 folks are not quite aware that things are pretty centralised in our decentralised world.
 
 ![MetaMask blocked certain countries](/media/screenshot-2023-01-10-at-02.26.18.png "MetaMask blocked certain countries")
+_MetaMask blocked certain countries_
+
 
 ## Decentralisation in reality
 
@@ -28,7 +31,8 @@ If that particular provider happens to experience some issues, users would find 
 
 By mapping out the requests, it makes it possible to create a connection between IP addresses and multiple wallets (given the fact that MetaMask recently announced IP address collection) 🤔
 
-![How is Infura used by MetaMask](/media/matamask-i-infura-za-blog.png "How is Infura used by MetaMask")
+![Usage of Infura in Metamask](/media/matamask-i-infura-za-blog.png "Usage of Infura in Metamask")
+_Usage of Infura in Metamask_
 
 ## Path to decentralisation
 
@@ -37,6 +41,7 @@ Parity is developing substrate_connect.
 They enable running a light node for each individual user, therefore preventing a central point of failure.
 
 ![substrate_connect](/media/subs-connect.png "substrate_connect")
+_substrate_connect_
 
 Kudos to Parity - for developing both decentralised and more private network 👏
 
